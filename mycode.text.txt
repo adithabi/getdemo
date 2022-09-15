@@ -1,4 +1,3 @@
 print("my first line")
 print("my second line")
-print("the change is")
-sf
+print("the change is done")
